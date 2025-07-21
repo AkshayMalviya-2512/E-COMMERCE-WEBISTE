@@ -17,7 +17,7 @@ Build Tools: PostCSS
 Linting: ESLint​
 Getting Started Prerequisites Ensure you have the following installed: Node.js (v14 or above) npm or yarn​
 
-Installation Clone the Repository: git clone (https://github.com/yashsarin/E-COMMERCE-WEBSITE.git) cd ShopEase
+Installation Clone the Repository: git clone (https://github.com/AkshayMalviya-2512/E-COMMERCE-WEBISTE.git) cd ShopEase
 
 Install Dependencies: Using npm: npm install Or using yarn: yarn install
 
